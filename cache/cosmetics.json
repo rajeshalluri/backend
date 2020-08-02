@@ -10150,6 +10150,11 @@
     "name": "Peely"
   },
   {
+    "id": "cid_814_athena_commando_m_bananasummer",
+    "backendType": "AthenaCharacter",
+    "name": "Unpeely"
+  },
+  {
     "id": "CID_350_Athena_Commando_M_MasterKey",
     "backendType": "AthenaCharacter",
     "name": "Master Key"
@@ -11268,6 +11273,23 @@
     "id": "CID_760_Athena_Commando_F_NeonTightSuit",
     "backendType": "AthenaCharacter",
     "name": "Nightlife"
+  },
+  {
+    "id": "cid_819_athena_commando_f_neontightsuit_b",
+    "backendType": "AthenaCharacter",
+    "name": "Party Diva"
+  },
+
+  {
+    "id": "cid_820_athena_commando_f_neontightsuit_c",
+    "backendType": "AthenaCharacter",
+    "name": "Party MVP"
+  },
+
+  {
+    "id": "cid_818_athena_commando_f_neontightsuit_a",
+    "backendType": "AthenaCharacter",
+    "name": "Party Star"
   },
   {
     "id": "CID_763_Athena_Commando_F_ShinyJacket",
@@ -12640,6 +12662,11 @@
     "name": "Galaxy"
   },
   {
+    "id": "cid_337_athena_commando_f_celestial",
+    "backendType": "AthenaCharacter",
+    "name": "Galaxy Scout"
+  },
+  {
     "id": "CID_173_Athena_Commando_F_StarfishUniform",
     "backendType": "AthenaCharacter",
     "name": "Rook"
@@ -12798,6 +12825,11 @@
     "id": "CID_119_Athena_Commando_F_Candy",
     "backendType": "AthenaCharacter",
     "name": "Zoey"
+  },
+  {
+    "id": "cid_811_athena_commando_f_candysummer",
+    "backendType": "AthenaCharacter",
+    "name": "Tropical Punch Zoey"
   },
   {
     "id": "CID_117_Athena_Commando_M_TacticalJungle",
